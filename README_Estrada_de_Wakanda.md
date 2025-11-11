@@ -118,22 +118,21 @@ gcc main.c cidades.c -o cidades.exe
 
 ### Saída esperada
 
-=== RESULTADOS DA ESTRADA DE WAKANDA ===
-Comprimento total da estrada: 10
-Número de cidades: 2
-Menor vizinhança: 3.50 km
-Cidade com menor vizinhança: Birnin_Zana
-=========================================
+ RESULTADOS DA ESTRADA DE WAKANDA 
+ - Comprimento total da estrada: 10
+ - Número de cidades: 2
+ - Menor vizinhança: 3.50 km
+ - Cidade com menor vizinhança: Birnin_Zana
 
 ## Estrutura Final do Projeto
 
 TP02_Estrada_de_Wakanda/
-│
-├── cidades.c
-├── cidades.h
-├── main.c
-├── teste01.txt
-└── README.md
+  │
+  ├── cidades.c
+  ├── cidades.h
+  ├── main.c
+  ├── teste01.txt
+  └── README.md
 
 ## Liberação de Memória
 
